@@ -1,2 +1,2 @@
 # jimmyyen
-this is a private page of me!
+this is a static blog of me!
